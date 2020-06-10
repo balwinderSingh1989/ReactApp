@@ -1,10 +1,8 @@
 import React from 'react'
-
  
  function Main()
  {
-
-   return <main>This is main</main>
+   return <main className="navbar">This is main</main>
  }
 
 
